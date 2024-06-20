@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Gen AI, LLM, ML Algorithms**
 
-- 🤝 I’m looking for help with **Opportunities**
+- 🤝 I’m looking for help with **Full-time SDE Opportunities**
 
 - 👨‍💻 All of my projects are available at [https://kiranshatiya.framer.website](https://kiranshatiya.framer.website)
 
